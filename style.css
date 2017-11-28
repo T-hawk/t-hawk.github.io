@@ -1,0 +1,10 @@
+h1.title {
+    font-family: 'Helvetica', sans-serif, 'Gotham';
+    text-shadow: 1px 1px #2020208e;
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+body {
+    background-image: url("https://image.freepik.com/free-photo/pattern-of-white-brick-wall-for-background-and-textured-seamless-white-brick-wall-background_3236-289.jpg")
+}
