@@ -1,10 +1,71 @@
 h1.title {
     font-family: 'Helvetica', sans-serif, 'Gotham';
     text-shadow: 1px 1px #2020208e;
-    color: black;
+    color: rgb(7, 160, 12);
     font-size: 50px;
     text-align: center;
 }
 body {
-    background-image: url("https://image.freepik.com/free-photo/pattern-of-white-brick-wall-for-background-and-textured-seamless-white-brick-wall-background_3236-289.jpg")
+    background-image: url("http://www.designbolts.com/wp-content/uploads/2012/11/3px-tile-tiny-dark-square-tiles-seamless-pattern.jpg");
+}
+p {
+    font-family: 'Helvetica', sans-serif, 'Gotham';
+    color: rgb(7, 160, 12);
+    font-size: 20px;
+    text-align: center;
+}
+.paragraphs {
+    width: 300px;
+    margin: auto;
+}
+.button {
+    background-color: rgb(18, 148, 165);
+    border-radius:28px;
+    font-family: 'Helvetica', sans-serif, 'Gotham';
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    position: relative;
+    margin: -20px -50px; 
+    top: 50%;
+    left: 50%;
+}
+.button:hover {
+    background-color: lightblue;
+}
+.button:active {
+    position: relative;
+    top: 2px;
+}
+
+a.codingtrain:visited {
+    color: rgb(7, 160, 12);
+}
+
+a.codingtrain:hover {
+    color: lightgreen;
+    position: relative;
+    top: 1px;
+}
+
+a.p5 {
+    font-family: 'Helvetica', sans-serif, 'Gotham'; 
+    font-size: 20pt;
+}
+
+a.p5:visited {
+    color: rgb(7, 160, 12);
+}
+
+a.p5:hover {
+    color: lightgreen;
+    position: relative;
+    top: 1px;
+}
+#canvas {
+    text-align: center;
+    width: 100%;
 }
