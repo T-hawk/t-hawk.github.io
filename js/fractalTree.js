@@ -2,6 +2,7 @@ let branches = [];
 const WIDTH = 400;
 const HEIGHT = 400;
 let mouseAngle;
+let depthOfBranches = 0;
 
 function setup() {
     const canvas = createCanvas(WIDTH, HEIGHT);
@@ -14,10 +15,14 @@ function draw() {
     background(50);
     branches = []
     branches.push(makeFirstBranch())
+    depthOfBranches += 1;
     createNewBranches(mouseX / 9, branches[0], 0, mouseY / 5, 80)
     branches.forEach(function(branch){
         branch.show()
     })
+    if (depthOfBranches == 40) {
+        depthOfBranches = 0;
+    }
 }
 
 function createNewBranches(angle, branch, depth, rate, dist) {

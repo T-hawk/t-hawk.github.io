@@ -8,7 +8,7 @@ h1.title {
 body {
     background-image: url("http://www.designbolts.com/wp-content/uploads/2012/11/3px-tile-tiny-dark-square-tiles-seamless-pattern.jpg");
 }
-p {
+div.paragraphs p {
     font-family: 'Helvetica', sans-serif, 'Gotham';
     color: rgb(7, 160, 12);
     font-size: 20px;
@@ -68,4 +68,18 @@ a.p5:hover {
 #canvas {
     text-align: center;
     width: 100%;
+}
+h1.websites {
+    color: rgb(41, 159, 175);
+    font-family: 'Helvetica', sans-serif, 'Gotham'; 
+}
+a.links {
+    font-size: 20pt;
+    color: rgb(44, 182, 31);
+    font-family: 'Helvetica', sans-serif, 'Gotham'; 
+}
+p.websites {
+    color: rgb(44, 182, 31);
+    font-family: 'Helvetica', sans-serif, 'Gotham'; 
+    font-size: 15pt;
 }
