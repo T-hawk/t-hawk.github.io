@@ -3,19 +3,69 @@ h1.title {
     text-shadow: 1px 1px #2020208e;
     color: rgb(7, 160, 12);
     font-size: 50px;
-    text-align: center;
+    text-align: left;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
 body {
-    background-image: url("http://www.designbolts.com/wp-content/uploads/2012/11/3px-tile-tiny-dark-square-tiles-seamless-pattern.jpg");
+    background-color: #2d2d2d;
+    margin: 5%;
 }
 div.paragraphs p {
     font-family: 'Helvetica', sans-serif, 'Gotham';
-    color: rgb(7, 160, 12);
-    font-size: 20px;
-    text-align: center;
+    color: white;
+    font-size: 25px;
+    text-align: left;
 }
+
+a {
+    font-family: 'Helvetica', sans-serif, 'Gotham';
+    text-decoration: none;
+    color: white;
+    font-size: 35px;
+    padding: 10px 10px;
+}
+
+a:hover {
+    background-color: blue;
+}
+
+.navbar {
+    text-align: left;
+
+    background-color: rgb(25, 116, 236);
+
+    font-size: 30px;
+    font-family: 'Helvetica', sans-serif, 'Gotham';
+
+    text-align: left;
+    text-decoration: none;
+
+    margin: 0px;
+
+    width: 100%;
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+    position: fixed;
+
+    top: 0;
+    left: 0;
+}
+
 .paragraphs {
-    width: 300px;
+    width: 900px;
     margin: auto;
 }
 .button {
@@ -41,45 +91,20 @@ div.paragraphs p {
     top: 2px;
 }
 
+a.codingtrain {
+    font-size: 25px;
+    padding: 0;
+}
+
 a.codingtrain:visited {
-    color: rgb(7, 160, 12);
+    color: white;
 }
 
 a.codingtrain:hover {
-    color: lightgreen;
-    position: relative;
-    top: 1px;
+    background-color: transparent;
 }
 
-a.p5 {
-    font-family: 'Helvetica', sans-serif, 'Gotham'; 
-    font-size: 20pt;
-}
-
-a.p5:visited {
-    color: rgb(7, 160, 12);
-}
-
-a.p5:hover {
-    color: lightgreen;
-    position: relative;
-    top: 1px;
-}
 #canvas {
     text-align: center;
     width: 100%;
-}
-h1.websites {
-    color: rgb(41, 159, 175);
-    font-family: 'Helvetica', sans-serif, 'Gotham'; 
-}
-a.links {
-    font-size: 20pt;
-    color: rgb(44, 182, 31);
-    font-family: 'Helvetica', sans-serif, 'Gotham'; 
-}
-p.websites {
-    color: rgb(44, 182, 31);
-    font-family: 'Helvetica', sans-serif, 'Gotham'; 
-    font-size: 15pt;
 }
