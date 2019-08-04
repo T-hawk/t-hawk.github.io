@@ -1,21 +1,28 @@
 class Branch {
-    constructor(x, y) {
-        this.x = x
-        this.y = y
-        this.d = 10
-        this.r = this.d / 2
-        this.connectedBranches = []
-        this.hasConnectedBranches = false
+    constructor(x, y, length, angle) {
+        this.angle = angle;
+        this.length = length;
+
+        radians = this.angle * (Math.PI / 180);
+
+        this.beginPoint = createVector(x, y);
+        this.endPoint = createVector(x + length * Math.cos(radians), y + length * Math.sin(radians));
+
+        this.branch();
     }
+
     show() {
-        fill(18, 148, 165)
-        noStroke();
-        ellipse(this.x, this.y, this.d)
-        if (this.hasConnectedBranches) {
-            strokeWeight(4)
-            stroke(18, 148, 165)
-            line(this.x, this.y, this.connectedBranches[0].x, this.connectedBranches[0].y)
-            line(this.x, this.y, this.connectedBranches[1].x, this.connectedBranches[1].y)
+        stroke(255);
+        strokeWeight(this.length / 15)
+        line(this.beginPoint.x, this.beginPoint.y, this.endPoint.x, this.endPoint.y)
+    }
+
+    branch() {
+        if (this.length > 3) {
+            let newLength = this.length * 0.67;
+
+            branches.push(new Branch(this.endPoint.x, this.endPoint.y, newLength, this.angle - rate))
+            branches.push(new Branch(this.endPoint.x, this.endPoint.y, newLength, this.angle + rate))
         }
     }
 }
