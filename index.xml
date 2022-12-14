@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Grinstead</title>
+    <link>http://thomas.grinstead.us/</link>
+    <description>Recent content on Thomas Grinstead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://thomas.grinstead.us/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beta Hours App</title>
+      <link>http://thomas.grinstead.us/projects/beta-hours-app/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/projects/beta-hours-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discord Button</title>
+      <link>http://thomas.grinstead.us/projects/discord-button/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/projects/discord-button/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UV: Feel the Burn</title>
+      <link>http://thomas.grinstead.us/games/uv-feel-the-burn/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/games/uv-feel-the-burn/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Sphera</title>
+      <link>http://thomas.grinstead.us/games/sphera/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/games/sphera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unit Quest</title>
+      <link>http://thomas.grinstead.us/games/unit-quest/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/games/unit-quest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outsider</title>
+      <link>http://thomas.grinstead.us/projects/outsider/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/projects/outsider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Give Me Some Space</title>
+      <link>http://thomas.grinstead.us/games/give-me-some-space/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/games/give-me-some-space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picka Movie</title>
+      <link>http://thomas.grinstead.us/projects/picka-movie/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/projects/picka-movie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Untitled Nuclear Game</title>
+      <link>http://thomas.grinstead.us/games/untitled-nuclear-game/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/games/untitled-nuclear-game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hacker Jacks</title>
+      <link>http://thomas.grinstead.us/games/hacker-jacks/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/games/hacker-jacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wheel of Misfortune</title>
+      <link>http://thomas.grinstead.us/projects/wheel-of-misfortune/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/projects/wheel-of-misfortune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thaumatech</title>
+      <link>http://thomas.grinstead.us/games/thaumatech/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/games/thaumatech/</guid>
+      <description>I experimented with different genres to put the game in. I originally wanted the game to be a 3D first person shooter with a massive open world. But that dream quickly died off as a realized the difficulty of developing a 3D game. Unfortunately, I do not have any screenshots from this version becaues it was so short lived.
+The next genre I explored was a 2D topdown shooter game.</description>
+    </item>
+    
+    <item>
+      <title>Cubemunity</title>
+      <link>http://thomas.grinstead.us/projects/cubemunity/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/projects/cubemunity/</guid>
+      <description> As you can see the UI heavily features gradients. It definetely works in some places, but looks bad in others. Although it might not look the greatest, this project was a great learning experience, and I learned how to design a website from the ground up. I had an IOS version of the app in the works, but never quite completed it. The github repo for the mobile version is here </description>
+    </item>
+    
+  </channel>
+</rss>

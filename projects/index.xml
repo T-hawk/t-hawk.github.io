@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Thomas Grinstead</title>
+    <link>http://thomas.grinstead.us/projects/</link>
+    <description>Recent content in Projects on Thomas Grinstead</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://thomas.grinstead.us/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beta Hours App</title>
+      <link>http://thomas.grinstead.us/projects/beta-hours-app/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/projects/beta-hours-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discord Button</title>
+      <link>http://thomas.grinstead.us/projects/discord-button/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/projects/discord-button/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outsider</title>
+      <link>http://thomas.grinstead.us/projects/outsider/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/projects/outsider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Picka Movie</title>
+      <link>http://thomas.grinstead.us/projects/picka-movie/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/projects/picka-movie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wheel of Misfortune</title>
+      <link>http://thomas.grinstead.us/projects/wheel-of-misfortune/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/projects/wheel-of-misfortune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cubemunity</title>
+      <link>http://thomas.grinstead.us/projects/cubemunity/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://thomas.grinstead.us/projects/cubemunity/</guid>
+      <description> As you can see the UI heavily features gradients. It definetely works in some places, but looks bad in others. Although it might not look the greatest, this project was a great learning experience, and I learned how to design a website from the ground up. I had an IOS version of the app in the works, but never quite completed it. The github repo for the mobile version is here </description>
+    </item>
+    
+  </channel>
+</rss>
